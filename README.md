@@ -66,7 +66,7 @@ The project uses a public retail sales dataset containing:
 * Customer Segment
 
 Dataset Source:
-Replace this section with the dataset link used in your project.
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?utm_source
 
 ---
 
