@@ -208,16 +208,6 @@ pip install -r requirements.txt
 python dashboard.py
 ```
 
----
-
-## Author
-
-Virang Raje
-
-Project for Data Analytics using Python 
-
----
-
 ## Project Purpose
 
 This project was created to demonstrate practical data analytics skills including data cleaning, transformation, analysis, visualization, and business reporting using Python.
